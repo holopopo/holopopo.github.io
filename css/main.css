@@ -2147,41 +2147,41 @@ a:hover {
   margin-left: 30px;
 }
 .v[data-class="v"] .vwrap .vheader .vinput:focus {
-  border-bottom-color: ##CF9FFF !important;
+  border-bottom-color: #cf9fff !important;
 }
 .v[data-class="v"] .vbtn:active,
 .v[data-class="v"] .vbtn:hover {
-  border-color: ##CF9FFF !important;
+  border-color: #cf9fff !important;
 }
 .v[data-class="v"] .vcards .vcard .vh .vmeta .vat {
-  color: ##CF9FFF !important;
+  color: #cf9fff !important;
 }
 .v[data-class="v"] a {
-  color: ##CF9FFF !important;
+  color: #cf9fff !important;
 }
 .fancybox-progress {
-  background: ##CF9FFF !important;
+  background: #cf9fff !important;
 }
 .markdown-body code {
-  color: ##CF9FFF;
+  color: #cf9fff;
 }
 .markdown-body a:hover {
-  border-bottom: 2px solid ##CF9FFF;
+  border-bottom: 2px solid #cf9fff;
 }
 .markdown-body blockquote {
-  border-color: ##CF9FFF;
+  border-color: #cf9fff;
 }
 .toc-link:hover::after {
-  background-color: ##CF9FFF;
+  background-color: #cf9fff;
 }
 .toc-link.active::after {
-  background-color: ##CF9FFF;
+  background-color: #cf9fff;
 }
 .navbar ul li a:hover::after {
-  background-color: ##CF9FFF;
+  background-color: #cf9fff;
 }
 .navbar ul li.active a::after {
-  background-color: ##CF9FFF;
+  background-color: #cf9fff;
 }
 .markdown-body h1 .headerlink::before,
 .markdown-body h2 .headerlink::before,
@@ -2189,5 +2189,5 @@ a:hover {
 .markdown-body h4 .headerlink::before,
 .markdown-body h5 .headerlink::before,
 .markdown-body h6 .headerlink::before {
-  color: ##CF9FFF;
+  color: #cf9fff;
 }
